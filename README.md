@@ -21,7 +21,7 @@ the Goal Line technology system uses the ATmega3208 microcontroller to read the 
 
 
 
-![Model of goal line system] (docs/IMG_0371.jpg)
+![Model of goal line system](docs/IMG_0371.jpg)
 
 
 ## Project Structure
